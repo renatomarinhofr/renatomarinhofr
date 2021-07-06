@@ -3,8 +3,6 @@
 
 - 👨‍💻 I’m currently learning NodeJS, Typescript, MySQL, AWS, Firebase
 
-- 🤔 I’m looking for help with ReactJS
-
 - 📫 How to reach me **renato.marinhofr@gmail.com**
 
 <p align="center">
