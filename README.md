@@ -22,8 +22,8 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=renatomarinhofr&show_icons=true" alt="renatomarinho"/><br/>
-<a href="https://twitter.com/RenatoM23892889" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renatomarinho" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/renato-marinho-freitas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatomarinho" height="20" width="20" /></a>
-<a href="https://www.facebook.com/renato.marinho.940/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="renatomarinho" height="20" width="20" /></a>
-<a href="https://www.instagram.com/renato.marinhofr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="renatomarinho" height="20" width="20" /></a>
+<a href="https://twitter.com/RenatoM23892889" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="renatomarinho" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/renato-marinho-freitas/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renatomarinho" height="20" width="20" /></a>
+<a href="https://www.facebook.com/renato.marinho.940/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="renatomarinho" height="20" width="20" /></a>
+<a href="https://www.instagram.com/renato.marinhofr/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="renatomarinho" height="20" width="20" /></a>
 </p>
