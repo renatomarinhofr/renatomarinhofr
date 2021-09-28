@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renato Marinho</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomarinhofr&label=Profile%20views&color=0e75b6&style=flat" alt="renatomarinhofr" /> </p>
 
-- 🌱 I’m currently learning **Elixir, Phoenix, Ecto**
+- 🌱 I’m currently learning **Elixir, Phoenix**
 
 - 📫 How to reach me **renato.marinhofr@gmail.com**
 
