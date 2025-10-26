@@ -1,7 +1,7 @@
 # Hi everyone 👋
 
-**Front-End Developer** from Brazil 🇧🇷  
-Currently building modern web and mobile experiences with **React**, **Next.js**, **React Native**, and **TypeScript**
+I'm a **Front-End Developer** from Brazil, <br />
+building modern web and mobile experiences with **React**, **Next.js**, **React Native**, and **TypeScript**
 
 <details>
 <summary>
