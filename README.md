@@ -31,6 +31,6 @@ Currently focused on **React**, **Next.js**, **TypeScript**, and **React Native*
 
 ### 📫 Get in Touch
 Feel free to reach out anytime — I’m open to collaboration and new opportunities.  
-👉 [WhatsApp](https://wa.me/5585991449098)
+👉 [Book a meeting](https://cal.com/renatomarinhofr/15min?overlayCalendar=true)
 
 ---
