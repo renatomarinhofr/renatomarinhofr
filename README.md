@@ -16,7 +16,7 @@ building modern web and mobile experiences with **React**, **Next.js**, **React 
 </a>
 
 - 🌐 I build and design **scalable web and mobile apps**  
-- 🧠 Always learning — now exploring **Go (Golang)** and backend development  
+- 🧠 Always learning — now exploring backend development  
 - 💬 Check out my portfolio → [renatomarinho.xyz](https://renatomarinho.xyz)
 
 ---
@@ -64,7 +64,7 @@ I enjoy exploring **UI/UX patterns**, **animation flows**, and improving **devel
 
 ## 📚 Currently Learning
 
-- 🦦 Backend development with **Go (Golang)**  
+- 🦦 Backend development
 - 🧱 Clean Architecture & SOLID principles  
 - ⚙️ API Design and System Scalability  
 
